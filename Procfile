@@ -1,1 +1,1 @@
-web: node raml-server.js exampleApi.raml
+web: node raml-server exampleApi.raml
