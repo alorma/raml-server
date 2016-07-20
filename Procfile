@@ -1,0 +1,1 @@
+web: node raml-server.js exampleApi.raml
